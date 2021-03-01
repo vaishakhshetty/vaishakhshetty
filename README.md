@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Vaishakh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishakhshetty&show_icons=true&theme=tokyonight)]
+![Vaishakh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishakhshetty&show_icons=true&theme=tokyonight)
 
 <br/>
 
