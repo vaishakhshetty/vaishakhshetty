@@ -3,10 +3,12 @@
 --!>
 
 Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Hi, I'm Vaishakh Shetty!](https://www.linkedin.com/in/vaishakhshetty/), 21 year old passionate about ML & Blockchain from India.
+Hi, I'm Vaishakh Shetty a 21 year old passionate about ML & Blockchain from India.
+
 
 
 </br>
+
 
 
 Languages and Tools:  
