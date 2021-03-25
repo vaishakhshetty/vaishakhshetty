@@ -2,7 +2,7 @@
 **vaishakhshetty/vaishakhshetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </br>
 Hi, I'm Vaishakh Shetty, 21 year old passionate about ML & Blockchain from India.
 
@@ -22,6 +22,6 @@ Languages and Tools:
         <img src="https://img.shields.io/badge/-vaishakhshetty-blue?style=social&logo=Linkedin&logoColor=blue" />
     </a>&emsp;
     <a href="mailto:vaishakhshetty197@gmail.com" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red" />
+        <img src="https://img.shields.io/badge/-gmail-c14438?style=social&logo=Gmail&logoColor=red" />
     </a>
 </p>
