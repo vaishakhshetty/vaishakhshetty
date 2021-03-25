@@ -19,7 +19,7 @@ Languages and Tools:
 
 📈 My GitHub Stats :
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vaishakhshetty&show_icons=true&theme=tokyonight" alt="vaishakhshetty" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vaishakhshetty&show_icons=true&theme=midnight-purple" alt="vaishakhshetty" />
     
 <p align="center">
     <a href="https://www.linkedin.com/in/vaishakhshetty/" alt="LinkedIn">
