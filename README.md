@@ -20,4 +20,7 @@ Languages and Tools:
     <a href="mailto:vaishakhshetty197@gmail.com" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-gmail-c14438?style=social&logo=Gmail&logoColor=red" />
     </a>
+        <a href="https://www.kaggle.com/vaishakhshetty" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-vaishakhshetty-blue?style=social&logo=kaggle&logoColor=blue" />
+    </a>    
 </p>
